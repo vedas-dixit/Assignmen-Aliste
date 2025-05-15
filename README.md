@@ -1,7 +1,11 @@
 # E-commerce App: Alice Assignment
 
 #Demo:
-https://github.com/user-attachments/assets/0ea1c28c-eb8d-47ab-9073-50f3708fb33f
+
+
+https://github.com/user-attachments/assets/112fc1f7-adf4-43ff-9d7f-4dd61b8918ad
+
+
 
 ## Project Overview
 
